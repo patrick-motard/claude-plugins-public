@@ -5,6 +5,11 @@
   "author": {
     "name": "Patrick Motard"
   },
-  "commands": ["./commands/"],
-  "skills": "./skills/"
+  "commands": [
+    "./commands/git-push.md",
+    "./commands/extract-workflow.md"
+  ],
+  "skills": [
+    "./skills/git-rewrite/"
+  ]
 }
