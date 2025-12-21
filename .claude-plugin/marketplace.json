@@ -1,9 +1,13 @@
 {
+  "name": "claude-plugins-public",
+  "owner": {
+    "name": "Patrick Motard"
+  },
   "plugins": [
     {
       "name": "public-tools",
       "description": "Cross-cutting development tools",
-      "source": ".",
+      "source": "./",
       "version": "1.0.0"
     }
   ]
