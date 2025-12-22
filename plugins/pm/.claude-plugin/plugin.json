@@ -1,15 +1,7 @@
 {
   "name": "pm",
-  "version": "1.0.0",
   "description": "Cross-cutting development tools",
   "author": {
     "name": "Patrick Motard"
-  },
-  "commands": [
-    "./commands/git-push.md",
-    "./commands/extract-workflow.md"
-  ],
-  "skills": [
-    "./skills/git-rewrite/"
-  ]
+  }
 }
