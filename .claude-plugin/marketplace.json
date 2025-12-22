@@ -7,7 +7,7 @@
     {
       "name": "pm",
       "description": "Cross-cutting development tools",
-      "source": "./",
+      "source": "./plugins/pm",
       "version": "1.0.0"
     }
   ]
